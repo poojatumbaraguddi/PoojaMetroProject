@@ -1,0 +1,13 @@
+{
+    "cost":"300",
+    "image":"assets/images/shoes.png",
+    "lable":"Nike Air",
+    "color":"Red",
+    "category":"Shoes",
+    "categoryId":"1",
+    "productId":"1",
+    "brand":"Nike",
+    "description":"Best Running Shoes from Nike",
+    "items_available":"5"
+
+}
